@@ -1,5 +1,5 @@
 ## About Me
-
+---
 **Name**: Wei Zheng  
 **School**: High School of Telecommunication Arts and Technology  
 **Email**: _weiz9762@hstat.org_  
@@ -14,7 +14,7 @@
 8. AP Chemistry (13:40 --- 14:22)
 9. Gym (14:25 --- 15:00) 
 
-**Clubs**
+**Clubs**:
  * Blueprint  
     * Firday --- Ms. Mayo
  * Photography
@@ -23,4 +23,7 @@
     * Tueday to Firday --- Mr. Rader
 
 
-##### Hey, here is Wei Zheng. I am a dedicated person with a family of three. I’m not always the extroverted one, but I have always spent my time with my friends. People find me humorous once we get along with each other. I have a strong passion for math and science, it is like solving a puzzle, you face it and you solve it, and it is also the reason why I join SEP because I love problem-solving  [Here is the link to my website, check it out!](https://sites.google.com/a/hstat.org/weiz9762sep11/)
+
+
+
+#### Hey, here is Wei Zheng. I am a dedicated person with a family of three. I’m not always the extroverted one, but I have always spent my time with my friends. People find me humorous once we get along with each other. I have a strong passion for math and science, it is like solving a puzzle, you face it and you solve it, and it is also the reason why I join SEP because I love problem-solving  [Here is the link to my website, check it out!](https://sites.google.com/a/hstat.org/weiz9762sep11/)
