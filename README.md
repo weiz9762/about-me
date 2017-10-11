@@ -3,15 +3,15 @@
 **Name**: Wei Zheng  
 **Email**: _weiz9762@hstat.org_  
 **Schedule**:
-1. English
-2. SEP
-3. History
-4. Lunch
-5. Spanish
-6. AP Calculus
-7. AP Chemistry
-8. AP Chemistry
-9. Gym  
+1. English (8:10---8:52)
+2. SEP (8:55---9:52)
+3. History (9:55---10:37)
+4. Lunch (10:40---11:22)
+5. Spanish (11:25---12:07)
+6. AP Calculus (12:10---12:52)
+7. AP Chemistry (12:55---13:37)
+8. AP Chemistry (13:40---14:22)
+9. Gym (14:25---15:00) 
 
 **Clubs**
  * Blueprint  
